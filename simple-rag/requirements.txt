@@ -1,0 +1,6 @@
+anthropic
+sentence-transformers
+numpy
+python-dotenv
+pymupdf
+openai

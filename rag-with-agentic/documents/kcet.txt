@@ -1,0 +1,35 @@
+
+KCET 2024 Physics - Laws of Motion
+
+Question 1: A body of mass 5 kg is acted upon by a net force of 20 N. What is its acceleration?
+Answer: a = F/m = 20/5 = 4 m/s²
+Topic: Newton's Second Law
+Year: 2024
+
+Question 2: A ball is thrown vertically upward with velocity 19.6 m/s. How long does it take to reach maximum height?
+Answer: t = v/g = 19.6/9.8 = 2 seconds
+Topic: Projectile Motion
+Year: 2024
+
+Question 3: Two forces of 3N and 4N act at right angles. What is the resultant force?
+Answer: R = √(3² + 4²) = √25 = 5N
+Topic: Vector Addition
+Year: 2025
+
+Question 4: A car accelerates from rest to 72 km/h in 10 seconds. What is the acceleration?
+Answer: 72 km/h = 20 m/s. a = (20-0)/10 = 2 m/s²
+Topic: Kinematics
+Year: 2025
+
+KCET 2024 Chemistry - Periodic Table
+
+Question 5: Which element has the highest electronegativity?
+Answer: Fluorine (F) with electronegativity 4.0 on Pauling scale.
+Topic: Periodic Properties
+Year: 2024
+
+Question 6: The atomic number of Iron (Fe) is?
+Answer: Iron has atomic number 26 and is in Period 4, Group 8.
+Topic: Periodic Table
+Year: 2024
+```
